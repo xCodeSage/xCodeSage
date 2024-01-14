@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/xCodeSage/xCodeSage/blob/97fc01b5d65f0a50c5dd6f26f5fe54a144aca5d5/xcodesage.png?raw=true" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/xCodeSage/xCodeSage/blob/main/xcodesage.png?raw=true" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sage (xCodeSage)</h1>
 <h3 align="center">I'm a passionate Offensive Developer, Penetration Tester & Red Team Operator.</h3>
