@@ -53,7 +53,7 @@
 <br><br>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xCodeSage&theme=blue-green&card_width=520" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xCodeSage&theme=blue-green" alt="GitHub Streak" /></a>
 </p>
 <br>
 
