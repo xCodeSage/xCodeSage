@@ -52,8 +52,7 @@
 <br><br>
 
 <p align="center">
-    <script src="https://tryhackme.com/badge/1382214"></script>
-</p>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SAGE.png" alt="TryHackMe"></p>
 
 <br><br>
 
