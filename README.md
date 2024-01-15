@@ -49,7 +49,8 @@
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/php"/> </a>
 </p>
 
-
+<br><br>
+<script src="https://tryhackme.com/badge/1382214"></script>
 <br><br>
 
 <p align="center">
