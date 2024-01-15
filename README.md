@@ -20,6 +20,13 @@
 
 <br><br>
 
+<p align="center">
+    <img width="20%" height="auto" src="https://tryhackme-badges.s3.amazonaws.com/SAGE.png" alt="TryHackMe">
+</p>
+
+
+<br><br>
+
 ## 🎖️ Certifications and Trainings
 
 <p align="center"> 
@@ -48,11 +55,6 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/70/000000/mysql-logo.png"/> </a>    
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/php"/> </a>
 </p>
-
-<br><br>
-
-<p align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/SAGE.png" alt="TryHackMe"></p>
 
 <br><br>
 
