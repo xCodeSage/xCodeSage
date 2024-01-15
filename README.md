@@ -20,13 +20,6 @@
 
 <br><br>
 
-<p align="center">
-    <img width="20%" height="auto" src="https://tryhackme-badges.s3.amazonaws.com/SAGE.png" alt="TryHackMe">
-</p>
-
-
-<br><br>
-
 ## 🎖️ Certifications and Trainings
 
 <p align="center"> 
