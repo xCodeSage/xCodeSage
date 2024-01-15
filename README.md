@@ -50,7 +50,11 @@
 </p>
 
 <br><br>
-<script src="https://tryhackme.com/badge/1382214"></script>
+
+<p align="center">
+    <script src="https://tryhackme.com/badge/1382214"></script>
+</p>
+
 <br><br>
 
 <p align="center">
