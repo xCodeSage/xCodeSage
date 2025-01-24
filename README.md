@@ -28,7 +28,7 @@
     <img width="20%" height="auto" src="https://images.credly.com/size/680x680/images/9ba65b84-382b-4968-b93b-e9fb399c0e29/silver_2_small.png"/>&nbsp;&nbsp;
     <img width="20%" height="auto" src="https://images.credly.com/size/680x680/images/37e26478-d80c-43e8-80eb-ec492f3a26c1/image.png"/><br>
     <img width="15%" height="auto" src="https://assets.ine.com/certifications/badges/eCPPT.png"/>&nbsp;&nbsp;
-    <img width="20%" height="auto" src="https://api.badgr.io/public/assertions/JMGMVoJ8QmqEkA9g0dbohw/image"/>&nbsp;&nbsp;&nbsp;
+    <img width="20%" height="auto" src="https://media.eu.badgr.com/uploads/badges/810fb737-3709-422a-9544-e8329e6f9eb7.png"/>&nbsp;&nbsp;&nbsp;
     <img width="20%" height="auto" src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blt35b018ffc64a5b93/63c71c17e97936109ef2bcaf/GOSI.png"/>&nbsp;&nbsp;
 </p>
 <br><br>
