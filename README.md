@@ -39,7 +39,7 @@
 <p align="center"> 
     <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://img.icons8.com/color/powershell"/> </a> 
     <a href="https://learn.microsoft.com/en-us/cpp/c-language/" target="_blank"> <img src="https://img.icons8.com/color/c-programming"/> </a> 
-    <a href="https://learn.microsoft.com/en-us/cpp/cpp/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png?f=webp&w=59"/> </a> 
+    <a href="https://learn.microsoft.com/en-us/cpp/cpp/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png?f=webp&w=20"/> </a> 
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/c-sharp-logo"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/65/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/65/000000/html-5.png"/> </a> 
